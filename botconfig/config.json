@@ -1,0 +1,31 @@
+{
+   "prefix": ">",
+   "ksoftapi": "",
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "anjubujju"
+         }
+      ]
+   },
+   "colors": {
+      "yes": "#C219D8",
+      "no": "#FF264A"
+   },
+   "spotify": {
+      "clientSecret": "ba3f323828bf4fcea0942a6b5d7e4e46",
+      "clientID": "4535b9b27e6c4ef588a76b7d25da279f"
+   },
+   "status": {
+      "text": "!! ?HELP | CLEAN MUSIC | 24/7 !!",
+      "type": "STREAMING",
+      "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+      "url": "https://www.twitch.tv/avinasdbdb"
+   },
+   "ownerIDS": [
+      "573386403879059466"
+   ],
+     "mongooseConnectionString": "mongodb+srv://aviicroft:sH5w2KBJMm8h25B@acjett.67rz0.mongodb.net/data"
+}
