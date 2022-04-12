@@ -42,7 +42,7 @@ client.cooldowns = new Discord.Collection(); //an collection for cooldown comman
   }
 });
 //login into the bot
-client.login("ODI3MDI5NjI1OTc2NTIwNzE0.YGVFXA.pY19EN55btMdBUlBsvN3nJ5VgZk");
+client.login("OTYxMjA3NjY2NjgyNzc3NjQw.Yk1oZg.rGR9WQj3064JrVHJ0rb6zVGyC2w");
 
 const Enmap = require("enmap")
 client.settings = new Enmap({name: "settings", dataDir: "./database/settings"})
